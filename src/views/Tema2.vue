@@ -34,6 +34,7 @@
             figure
               img(width="200" height="200" src='@/assets/curso/temas/tema2/m1.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
+            br
             h4 Generación de #[i leads] 
             p Hay diversas operaciones y automatizaciones que generan #[i leads]: puede ser a través de #[i landing pages] con formularios donde el individuo deje sus datos, actividades de correo electrónico, #[i webinars] o incluso recursos de atracción de #[i leads] con publicaciones en el #[i blog]. 
           
@@ -43,6 +44,7 @@
             figure
               img(width="200" height="200" src='@/assets/curso/temas/tema2/m2.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
+            br
             h4 CRM
             p Para analizar la eficacia de esas operaciones se debe contar con métricas o indicadores para conocer, a ciencia cierta, cuánto ha aumentado el número de #[i leads] y si estos se pueden convertir en clientes potenciales. En un CRM (#[i software] de gestión de clientes), por ejemplo, se puede conocer cuántos de los #[i leads] que brindaron sus correos electrónicos en un formulario llegaron al sitio #[i web] y desde qué medio (red social, #[i blog], correo electrónico, etc.).
         
@@ -52,6 +54,7 @@
             figure
               img(width="200" height="200" src='@/assets/curso/temas/tema2/m3.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
+            br
             h4 Indicadores de conversión
             p Los ingresos generados por los contenidos se relacionan con los indicadores de conversión, debido a esto es importante preguntarse cuántos #[i leads] se convirtieron en clientes reales, Si la estrategia desarrollada no produce ventas se puede calcular el número de #[i leads] generados por la estrategia y programar los ajustes que se deban hacer, con el fin de comprender las desviaciones (objetivos no cumplidos). 
 
@@ -63,6 +66,7 @@
             figure
               img(width="200" height="200" src='@/assets/curso/temas/tema2/m4.svg', alt='Texto que describa la imagen')
           .col-md-6.mb-4.mb-md-0
+            br
             h4 El ROI (Retorno de la inversión) del #[i marketing]
             p Los contenidos se puede medir a través de las siguientes estadísticas:
             tabla
@@ -129,7 +133,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img1.png', alt='').banner-principal-decorativo-3
       .col-lg-7
-        AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--verde")
+        AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--blanco")
           div(titulo="Métricas de consumo")
             p Exponen el número de ocasiones que se compartieron los contenidos publicados por la marca. Si hay clientes que comparten los contenidos de la marca, esta es una excelente señal que muestra el buen trabajo realizado. También están los #[i likes] y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
           
@@ -163,31 +167,31 @@
       .col-lg-5
         p La analítica #[i web] es un método que se requiere para establecer si una empresa cumple o no con los objetivos pactados para su sitio #[i web], redes sociales, #[i blog], y en sí, para toda la empresa; por esto es considerada una estrategia del #[i marketing] digital que toda empresa debería tener en cuenta para hacer un estudio juicioso sobre las estrategias y acciones desarrolladas por la marca.
 
-    .tarjeta.bgr-slider.fondo-tarjeta.p-4.mt-5
+    .tarjeta.fondo-tarjeta.p-4.mb-4
       SlyderA(tipo="b")
         .row.align-items-center
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7.mb-4.mb-md-0
             p Su importancia no radica en hacer una medición sobre todo lo que se pueda. El éxito radica en elegir cuáles son los KPI (#[i Key Performance Indicator] - Indicadores Clave de Desempeño) más relevantes, según el contexto empresarial y los esfuerzos de #[i marketing] digital realizados. De esa elección dependerá el nivel de éxito y la calidad de las operaciones. Una vez realizado el análisis de todos los indicadores, se puede elaborar un plan de mejoramiento, que servirá para ajustar las acciones de la estrategia de #[i marketing] digital y la creación de futuras estrategias.
        
-          .col-md-5
+          .col-lg-5
             figure
-              img(src='@/assets/curso/temas/tema2/slider1.png', alt='')
+              img(src='@/assets/curso/temas/tema2/ww.png', alt='Texto que describa la imagen')
 
         .row.align-items-center
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7.mb-4.mb-md-0
             p La analítica #[i web] es un proceso constante que va ligado con la evolución y optimización de Internet, por lo que se hace vital el análisis y la documentación constante de la conducta del cliente y los cambios que sufra, para luego desarrollar un plan de mejoramiento. Ahora, hablando de la gestión de contenidos digitales, se debe recordar que pueden estar integrados a través de otras operaciones de publicidad y mercadeo como, por ejemplo, plataformas virtuales o portales digitales donde se publican contenidos.
        
-          .col-md-5
+          .col-lg-5
             figure
-              img(src='@/assets/curso/temas/tema2/slider2.png', alt='')
+              img(src='@/assets/curso/temas/tema2/ww2.png', alt='Texto que describa la imagen')
 
         .row.align-items-center
-          .col-md-7.mb-4.mb-md-0
+          .col-lg-7.mb-4.mb-md-0
             p La importancia de un buen análisis sobre cada uno de estos esfuerzos de #[i marketing] digital radica en conocer cuáles de ellos es el más oportuno para la marca. No se trata de trabajarlos todos, sino de elegir los más afines con la marca. El análisis sobre los contenidos digitales ayudará a comprender mejor cuáles son los formatos para usar. (Moreno Calvo, 2019).
        
-          .col-md-5
+          .col-lg-5
             figure
-              img(src='@/assets/curso/temas/tema2/slider3.png', alt='')
+              img(src='@/assets/curso/temas/tema2/ww3.png', alt='Texto que describa la imagen')
 
     br
     .row.mb-5.justify-content-center.align-items-center

@@ -25,41 +25,34 @@
     p.mb-4 La gestión de información se compone por un grupo de acciones que deben estar presentes en todas las fases de la empresa; necesita de un plan de acción, una toma de decisiones y la realización de evaluaciones periódicas. A través de esta se suministran los recursos informáticos que son precisos para tomar buenas decisiones y desarrollar conocimientos nuevos que permitan la eficiencia y la calidad en los bienes y servicios de las empresas.
     p.mb-4 Los objetivos de la gestión de información son los siguientes:
 
-
-
-
-    .row.mb-5
+    .row.mb-5.p-4
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.color-acento-botones(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider1.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider1.png')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
               p.text-center Mejorar la propuesta de valor y los beneficios que se derivan por usar la información.
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.color-acento-botones(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider2.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider2.png')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
               p.text-center Disminuir los costos de buscar, procesar y usar la información.
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.color-acento-botones(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider3.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider3.png')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
               p.text-center Establecer compromisos para la utilización efectiva, eficiente y económica de la información.
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.abajo.color-acento-botones(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
-            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider4.svg')})`}")
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/slider4.png')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5
               p.text-center Certificar el abastecimiento permanente de la información (Arjonilla y Medina, 2013, p. 67).
-
-
-
-
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
@@ -75,7 +68,7 @@
     br
     .row 
       .col-lg-8
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--naranja")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           div(titulo="<em>Search</em>")
             p Efectuar búsquedas eficientes en Internet que logren hallar datos importantes para conseguir los objetivos de la empresa.
           
@@ -129,7 +122,7 @@
     p.mb-4 Tener en cuenta estos factores:
 
     figure
-      img(src='@/assets/curso/temas/tema1/g7.png', alt='') 
+      img(src='@/assets/curso/temas/tema1/g7.svg', alt='') 
 
     Separador
 
@@ -148,7 +141,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/g4.png', alt='')
+          img(src='@/assets/curso/temas/tema1/g4.svg', alt='')
 
     p Al profundizar más sobre esta teoría, se encuentra que el acto de gestionar la información y los datos se puede clasificar de distintas maneras; a continuación, se enumeran las más significativas:
 
