@@ -115,7 +115,7 @@
     Separador
 
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1.  Tipos de indicadores
+      h2 2.1  Tipos de indicadores
 
     .row.align-items-center
       .col-lg-3
@@ -135,8 +135,11 @@
       .col-lg-7
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--blanco")
           div(titulo="Métricas de consumo")
-            p Exponen el número de ocasiones que se compartieron los contenidos publicados por la marca. Si hay clientes que comparten los contenidos de la marca, esta es una excelente señal que muestra el buen trabajo realizado. También están los #[i likes] y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
+            p Valoran la interacción de los clientes con cada contenido publicado (alcance, clics, visitantes de una vez, visitantes que repiten, etc.).
           
+          div(titulo="Métrica de compartición")
+            p Exponen el número de ocasiones que se compartieron los contenidos publicados por la marca. Si hay clientes que comparten los contenidos de la marca, esta es una excelente señal que muestra el buen trabajo realizado. También están los likes y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
+
           div(titulo="Métricas de participación")
             p Valoran el nivel de compromiso (#[i engagement]) que poseen los clientes por los contenidos. Se evalúa el tipo de comentarios recibidos por cada publicación, cuánto tiempo permanecen los clientes en el sitio #[i web], #[i blog] y demás canales digitales, cuántos contenidos fueron visitados por cada cliente, etc.
           
@@ -158,7 +161,7 @@
     Separador
 
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2.   Importancia
+      h2 2.2   Importancia
 
     .row.justify-content-center.align-items-center
       .col-lg-3
@@ -202,7 +205,7 @@
     Separador
 
     #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3.   Gestión de datos en plataformas digitales
+      h2 2.3   Gestión de datos en plataformas digitales
 
     p Para lograr el desarrollo de un análisis coherente de las operaciones o esfuerzos de mercadeo y sus resultados, hay que tener en cuenta las diferentes plataformas digitales y las herramientas de analítica, además de tener claros conceptos muy importantes. 
 

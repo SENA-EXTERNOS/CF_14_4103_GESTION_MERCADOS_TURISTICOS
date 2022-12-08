@@ -127,7 +127,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1.  Tipos
+      h2 1.1  Tipos
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3
@@ -197,7 +197,7 @@
     Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2.  Herramientas
+      h2 1.2  Herramientas
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
@@ -243,7 +243,7 @@
     Separador
 
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3.  Contenidos digitales
+      h2 1.3  Contenidos digitales
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
@@ -375,7 +375,7 @@
     Separador
 
     #t_1_4.titulo-segundo.color-acento-contenido
-      h2 1.4.  Fuentes de información
+      h2 1.4  Fuentes de información
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -396,7 +396,7 @@
     Separador
 
     #t_1_5.titulo-segundo.color-acento-contenido
-      h2 1.5.  Fases
+      h2 1.5  Fases
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -417,7 +417,7 @@
     Separador
 
     #t_1_6.titulo-segundo.color-acento-contenido
-      h2 1.6.  Configuración de la plataforma digital
+      h2 1.6  Configuración de la plataforma digital
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
