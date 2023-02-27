@@ -35,44 +35,6 @@ export default {
         numero: '1',
         titulo: 'Gestión de la información digital',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Tipos',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Herramientas',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Contenidos digitales',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Fuentes de información',
-            hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Fases',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Configuración de la plataforma digital',
-            hash: 't_1_6',
-          },
-        ],
       },
 
       {
@@ -81,26 +43,6 @@ export default {
         numero: '2',
         titulo: 'Medición de contenidos digitales',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipos de indicadores',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Importancia',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Gestión de datos en plataformas digitales',
-            hash: 't_2_3',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -174,7 +116,7 @@ export default {
     {
       tema: 'Gestión de datos en plataformas digitales',
       referencia:
-        'Cámara de Comercio de Bogotá (2020). Estrategia de Marketing Digital (Capítulo 2 Monitoreo de la estrategia). ',
+        'Cámara de Comercio de Bogotá (2020). <i>Estrategia de Marketing Digital (Capítulo 2 Monitoreo de la estrategia)</i>.',
       tipo: 'Informe',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/25723/Estrategia%20de%20Marketing%20Digital%20%282%29%202020%20BEATRIZ%20TAPIA.pdf?sequence=2&isAllowed=y',
@@ -266,7 +208,7 @@ export default {
     },
     {
       referencia:
-        'Maidana, J., Galain, C., y Mariño, S. (2020). Accesibilidad web integrada en aplicaciones móviles. Validación en un contexto de APPS turísticas. <em>Mikarimin. Revista Científica Multidisciplinaria.</em>',
+        'Maidana, J., Galain, C., y Mariño, S. (2020). <i>Accesibilidad web integrada en aplicaciones móviles. Validación en un contexto de APPS turísticas</i>. Mikarimin. Revista Científica Multidisciplinaria.',
       link: '',
     },
     {

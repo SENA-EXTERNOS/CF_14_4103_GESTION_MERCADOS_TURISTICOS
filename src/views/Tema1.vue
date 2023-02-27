@@ -7,10 +7,6 @@
         span 1
       h1 Gestión de la información digital
 
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-6
-        .cajon.color-acento-contenido.p-4.mb-4
-          p.text-center Para ampliar la información descrita anteriormente, veamos lo siguiente.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
@@ -23,7 +19,7 @@
             i.fas.fa-quote-right
 
     p.mb-4 La gestión de información se compone por un grupo de acciones que deben estar presentes en todas las fases de la empresa; necesita de un plan de acción, una toma de decisiones y la realización de evaluaciones periódicas. A través de esta se suministran los recursos informáticos que son precisos para tomar buenas decisiones y desarrollar conocimientos nuevos que permitan la eficiencia y la calidad en los bienes y servicios de las empresas.
-    p.mb-4 Los objetivos de la gestión de información son los siguientes:
+    p.mb-4 Los objetivos de la gestión de información los descubre tocando cada una de las siguientes  imágenes:
 
     .row.mb-5.p-4
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -56,12 +52,12 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Ahora bien, como dice #[b López Carreño] (2017)
+        p Ahora bien, como dice López Carreño (2017).
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p la gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad (p. 3), por eso, la siguiente información será de utilidad.
+            p La gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad (p. 3), por eso, la siguiente información será de utilidad.
             i.fas.fa-quote-right
 
     p Muy a menudo se escucha que el poder lo tiene quien posee la información; no obstante, en realidad no existe ninguna garantía de que una empresa puede acceder a una cantidad grande de información, a menos de que puede darle un uso correcto al método de las 4S’s:
@@ -122,26 +118,27 @@
     p.mb-4 Tener en cuenta estos factores:
 
     figure
-      img(src='@/assets/curso/temas/tema1/g7.svg', alt='') 
+      img(src='@/assets/curso/temas/tema1/img7.svg', alt='') 
 
-    Separador
-
-    #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1  Tipos
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Tipos de gestión de la información
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema1/g3.png', alt='').banner-principal-decorativo-3 
       .col-lg-9
-        p La atención y la información suministradas mientras el turista disfruta su estadía hacen parte del servicio turístico. Este puede ser personalizado o directo, a través de diferentes formas, como por ejemplo, las sedes de información turística, los sitios de recepción de visitantes, los hoteles, los museos, los parques de diversión, los centros educativos medioambientales, los lugares históricos y urbanos y cualquier entidad turística.
-        p A continuación, se encuentran los tipos de gestión de la información digital.
-        p Las solicitudes genéricas y específicas son los tipos de peticiones que se reciben en una sede de información turística. A continuación, se distingue la manera de brindar el servicio en cada una de ellas:
+        p La atención y la información suministradas mientras el turista disfruta su estadía, hacen parte del servicio turístico. Este puede ser personalizado o directo, a través de diferentes formas, como por ejemplo, las sedes de información turística, los sitios de recepción de visitantes, los hoteles, los museos, los parques de diversión, los centros educativos medioambientales, los lugares históricos y urbanos y cualquier entidad turística.
+      p.mt-5 A continuación, se encuentran los tipos de gestión de la información digital.
+      p Las solicitudes genéricas y específicas son los tipos de peticiones que se reciben en una sede de información turística. A continuación, se distingue la manera de brindar el servicio en cada una de ellas:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/g4.svg', alt='')
+          img(src='@/assets/curso/temas/tema1/img4.svg', alt='')
 
     p Al profundizar más sobre esta teoría, se encuentra que el acto de gestionar la información y los datos se puede clasificar de distintas maneras; a continuación, se enumeran las más significativas:
 
@@ -152,8 +149,8 @@
             figure
               img(src='@/assets/curso/temas/tema1/linea1.png', alt='Texto que describa la imagen')
           .col-md-6
-            p Rápido y fácil de usar. Los datos obtenidos se hallan condensados en tablas que se pueden relacionar con información colectiva en distintas tablas.
-        
+            p También es fácil de usar. Es implementada para la configuración de un software, pues posee un lenguaje en formato binario.
+            
         .row.justify-content-center(titulo="Gestión de datos planos")
           .col-md-4.mb-4.mb-md-0
             figure
@@ -194,35 +191,34 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.text-center Ahora, puede conocer las herramientas que existen en la gestión de la información digital.
 
-    Separador
-
-    #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2  Herramientas
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Herramientas
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Tal como lo afirma #[b Castaño Carmona] (2022)
+        p Tal como lo afirma Castaño Carmona (2022).
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p la transformación digital ya es una realidad en muchos sectores, y el turismo no es la excepción, sobre todo durante y después del Covid-19, cuando la tecnología se convirtió en una aliada para lograr la recuperación empresarial (p. 15).
+            p La transformación digital ya es una realidad en muchos sectores, y el turismo no es la excepción, sobre todo durante y después del Covid-19, cuando la tecnología se convirtió en una aliada para lograr la recuperación empresarial (p. 15). 
             i.fas.fa-quote-right
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
         figure
           img(src='@/assets/curso/temas/tema1/g5.png', alt='Texto que describa la imagen').banner-principal-decorativo-3
-        br
+        
         p Durante las fechas más críticas de la pandemia, la ONU (Organización de las Naciones Unidas) vaticinó pérdidas por más de USD 200 millones para el área del turismo, siendo esta una de las afectadas por la situación mundial. Pero con el uso de tecnologías disruptivas como, por ejemplo, la Internet de las cosas (IoT), el big data y la inteligencia artificial, se pudo hacer una revolución en la dinámica de los servicios turísticos, reactivando los viajes y accediendo a itinerarios más seguros.
-
-        p El sector turístico ha evolucionado, y sin lugar a ninguna duda, no es el mismo de antes del Covid-19, ni tampoco volverá a ser el mismo en el futuro. El turista de hoy busca experiencias de viaje hechas a su medida; por esta razón, requiere del uso de la tecnología para entregar, de manera personalizada, las experiencias de los clientes, teniendo en cuenta sus deseos, necesidades, predicciones y gustos específicos. La tecnología facilitó las reservaciones turísticas y poseer un mejor control de estas, tema que fue vital en tiempos de aforos limitados y restricciones. La tecnología permitió además que el sector turístico pudiera mejorar la experiencia de consumo de los clientes y la gestión de los viajes, lo que fue posible gracias a unas dinámicas de negocio que facilitaron a las empresas conocer mejor las necesidades de los turistas, instaurar vínculos cercanos y certificar el bienestar y la seguridad de los clientes.
+ 
+        p El sector turístico ha evolucionado, y sin lugar a  duda, no es el mismo de antes del Covid-19, ni tampoco volverá a ser el mismo en el futuro. El turista de hoy busca experiencias de viaje hechas a su medida; por esta razón, requiere del uso de la tecnología para entregar, de manera personalizada, las experiencias de los clientes, teniendo en cuenta sus deseos, necesidades, predicciones y gustos específicos. La tecnología facilitó las reservaciones turísticas y poseer un mejor control de estas, tema que fue vital en tiempos de aforos limitados y de restricciones. La tecnología permitió además que el sector turístico pudiera mejorar la experiencia de consumo de los clientes y la gestión de los viajes, lo que fue posible gracias a unas dinámicas de negocio que facilitaron a las empresas conocer mejor las necesidades de los turistas, instaurar vínculos cercanos y certificar el bienestar y la seguridad de los clientes.
 
         p En cuanto a los ejemplos de herramientas, es de gran utilidad revisar los contenidos dispuestos en el Anexo 1.
-
-        br
-
-        .tarjeta.tarjeta-color-verde.p-3.mb-5
+       
+        .tarjeta.tarjeta-color-verde.p-3.mb-5.mt-3
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/temas/tema1/min1.svg")
@@ -240,10 +236,11 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.text-center Después de lo anterior, ahora es posible hablar sobre los contenidos digitales.
 
-    Separador
-
-    #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3  Contenidos digitales
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Contenidos digitales
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
@@ -260,7 +257,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/min2.svg', alt='Texto que describa la imagen').banner-principal-decorativo-3
       .col-lg-10
-        p Es la columna vertebral de lo que se conoce como inbound #[i marketing] (#[i marketing] de atracción), donde se plantean contenidos anhelados por clientes potenciales, entregando contenidos que aportan información de valor que servirá para que los clientes elijan la marca en un futuro cercano.
+        p Es la columna vertebral de lo que se conoce como <i>inbound marketing</i> (<i>marketing</i> de atracción), donde se plantean contenidos anhelados por clientes potenciales, entregando contenidos que aportan información de valor que servirá para que los clientes elijan la marca en un futuro cercano.
 
         p Los contenidos digitales son publicaciones permanentes que se exhiben en redes sociales, #[i blogs] y #[i landing pages.] Se diseñan en diferentes formatos y son vitales para toda estrategia de mercadeo que una marca se proponga crear, porque el contenido de calidad es una de las columnas fundamentales de todo proyecto digital.
 
@@ -293,8 +290,16 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m1.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 Publicaciones de blog:
-                p Son oportunos para mostrar la personalidad de la marca, establecer su propio lenguaje y enlazar directamente con el cliente. Además, permiten el posicionamiento en los motores de búsqueda, siempre y cuando los contenidos sean cortos y coherentes con el contexto empresarial. Antes de publicar contenidos se deben responder las siguientes preguntas: ¿qué se espera lograr con el #[i blog]?, ¿qué tipo de contenido compartir?, ¿a quién dirigir los contenidos?, ¿con qué frecuencia publicar? El objetivo de un blog no es vender sino fidelizar, creando confianza en la marca, por lo que se recomienda hacer publicaciones académicas, informativas y deseadas por el público objetivo.
+                .h5.mb-2 Publicaciones de <i>blog</i>
+                p Son oportunos para mostrar la personalidad de la marca, establecer su propio lenguaje y enlazar directamente con el cliente. Además, permiten el posicionamiento en los motores de búsqueda, siempre y cuando los contenidos sean cortos y coherentes con el contexto empresarial. Antes de publicar contenidos se deben responder las siguientes preguntas:
+
+                p.mb-0 ¿Qué se espera lograr con el blog? 
+                p.mb-0 ¿Qué tipo de contenido compartir?
+                p.mb-0 ¿Quién va a ver el contenido?
+                p ¿Cuál es la frecuencia con que voy a publicar? 
+
+                p El objetivo de un blog no es vender sino fidelizar, creando confianza en la marca, por lo que se recomienda hacer publicaciones académicas, informativas y deseadas por el público objetivo.
+
 
           .tarjeta.color-acento-botones.p-3(x="34.5%" y="39%" numero="")
             .row
@@ -302,8 +307,8 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m2.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 #[i E-book]:
-                p Es un libro en formato digital que se entrega al cliente, bien sea a través de un pago o de forma gratuita. El formato gratuito es vital para captar #[i leads] (clientes potenciales) y brindarles más información de valor, que sea coherente con sus deseos y necesidades de información. Para descargar #[i e-books] los #[i leads] deben ir a una #[i landing] page en la cual dejan sus datos de contacto; una vez se tengan estos datos, se pueden diseñar distintas estrategias y acciones para convertirlos en clientes habituales. Un #[i e-book] de turismo puede hablar de regiones, sitios turísticos, historias de las grandes ciudades, gastronomía, etc.  
+                .h5.mb-2 #[i E-book]
+                p Es un libro en formato digital que se entrega al cliente, bien sea a través de un pago o de forma gratuita. El formato gratuito es vital para captar leads (clientes potenciales) y brindarles más información de valor, que sea coherente con sus deseos y necesidades de información. Para descargar <i>e-books</i> los leads deben ir a una <i>landing</i> page en la cual dejan sus datos de contacto; una vez se tengan estos datos, se pueden diseñar distintas estrategias y acciones para convertirlos en clientes habituales. Un e-book de turismo puede hablar de regiones, sitios turísticos, historias de las grandes ciudades, gastronomía, etc. 
 
           .tarjeta.color-acento-botones.p-3(x="34.5%" y="60%" numero="")
             .row
@@ -311,7 +316,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m3.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 Infografías:
+                .h5.mb-2 Infografías
                 p Su objetivo es la transmisión de información de manera didáctica y visual, captando la atención de los clientes a través de un diseño con poco texto y mucho poder gráfico (ilustraciones, gráficos, fotos, diseño, etc.). Es un tipo de contenido muy usual en comunidades virtuales y foros, sirviendo para la obtención de #[i leads], mejorar el posicionamiento #[i web] y fortalecer la marca. Representan una de las maneras más sencillas y directas de compartir contenido dando valor a los clientes, ya que su finalidad es conseguir que los espectadores comprendan la información rápidamente.  
 
           .tarjeta.color-acento-botones.p-3(x="42.2%" y="79%" numero="")
@@ -320,7 +325,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m4.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 Boletines:
+                .h5.mb-2 Boletines
                 p También conocido como #[i newsletter], es una publicación que se puede compartir a unos suscriptores, bien a través de un correo electrónico o a través del sitio #[i web], dando la oportunidad de descarga por parte del cliente. Su distribución se puede hacer con una periodicidad semanal, quincenal, mensual, bimestral o trimestral. Suelen estar conformados por diferentes artículos de valor para los suscriptores, con las noticias más relevantes de la empresa o del sector empresarial. Es posible que en un boletín se pueda integrar la oferta de un producto con el fin de convertir al suscriptor en #[i lead] y luego en cliente habitual.  
 
           .tarjeta.color-acento-botones.p-3(x="54.5%" y="79%" numero="")
@@ -329,7 +334,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m5.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 #[i Podcast:]
+                .h5.mb-2 #[i Podcast]
                 p Es un contenido digital que tiene formato de audio o video, el cual se puede escuchar o descargar de la #[i web]. Puede estar diseñado al estilo de un programa radial, ya que en cada capítulo se puede hablar de temas actuales y de relevancia para los clientes potenciales. Se puede publicar en el sitio #[i web], en el #[i blog], en las redes sociales o en plataformas destinadas para ello, como por ejemplo SoundCloud, iVoox, YouTube, iTunes o Spotify, entre otras. El uso del #[i podcast] se enfoca más en la fidelización de los clientes potenciales y en la promoción de los contenidos. Es vital publicar contenidos que tengan temas atrayentes, como noticias, novedades del área, tendencias, etc. 
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="60%" numero="")
@@ -338,21 +343,21 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m6.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 Publicaciones en redes sociales:
+                .h5.mb-2 Publicaciones en redes sociales
                 p Son parecidas a los artículos publicados en el #[i blog], pero su extensión es menor, limitándose a contenidos que contienen una frase concisa con mucho valor para el cliente, acompañada de una imagen o video que complementa la información. La idea es lograr una interacción más directa con los fanáticos, teniendo la oportunidad de interactuar con la audiencia a través de contenidos informativos, educativos, de ocio, promocionales y de marca. Los objetivos de estas publicaciones son: 
                 br  
                 ul.lista-ul
                   li 
                     i.fas.fa-check 
-                    p Conseguir #[i likes]
+                    p Conseguir #[i likes].
                 ul.lista-ul
                   li 
                     i.fas.fa-check 
-                    p Lograr que los fanáticos compartan y comenten la publicación
+                    p Lograr que los fanáticos compartan y comenten la publicación.
                 ul.lista-ul
                   li 
                     i.fas.fa-check 
-                    p Acceder al #[i link]
+                    p Acceder al #[i link].
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="39%" numero="")
             .row
@@ -360,8 +365,10 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m7.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 Videos:
-                p Tipo de contenido digital muy interesante, atractivo y buscado por los clientes, ya que posee un espacio particular dentro de la gestión de contenidos. Cada vez es más complejo captar la atención del cliente con publicaciones estáticas, esto ocurre porque la sociedad actual quiere encontrar contenidos simples y ágiles de comprender, y los videos son ideales para captar su atención. Un video bien elaborado y de calidad logra un mayor alcance e interacción a través de una búsqueda orgánica (SEO) en relación con otros formatos. Se puede publicar en distintas comunidades virtuales, en YouTube, en la #[i landing page], en el #[i blog] y hasta se pueden compartir a través del correo electrónico. Estos formatos brindan la posibilidad de posicionarse en la #[i web] y lograr la fidelización del público objetivo. 
+                .h5.mb-2 Videos
+                p Tipo de contenido digital muy interesante, atractivo y buscado por los clientes, ya que posee un espacio particular dentro de la gestión de contenidos. 
+
+                p Cada vez es más complejo captar la atención del cliente con publicaciones estáticas, esto ocurre porque la sociedad actual quiere encontrar contenidos simples y ágiles de comprender, y los videos son ideales para captar su atención. Un video bien elaborado y de calidad logra un mayor alcance e interacción a través de una búsqueda orgánica (SEO) en relación con otros formatos. Se puede publicar en distintas comunidades virtuales, en YouTube, en la landing page, en el blog y hasta se pueden compartir a través del correo electrónico. Estos formatos brindan la posibilidad de posicionarse en la web y lograr la fidelización del público objetivo. 
 
           .tarjeta.color-acento-botones.p-3(x="54.5%" y="21%" numero="")
             .row
@@ -369,13 +376,14 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m8.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 #[i Webinars:]
+                .h5.mb-2 #[i Webinars]
                 p Es una reunión, conferencia, taller, seminario, charla o curso en directo por internet que se puede grabar en formato video. Esencialmente, es un ‘cara a cara’ en vivo con el cliente para crear proximidad y confianza con él; por consiguiente, ayuda a lograr una conexión con los clientes para crear más #[i engagement] (compromiso de marca) y lograr más visibilidad para la marca, de tal manera que pueda aportar nuevos #[i leads] o clientes potenciales. Suelen tener un enfoque educativo y de formación, pero con el fin básico de captar nuevos #[i leads]; se requiere la elaboración de una oferta particular o #[i lead magnet] para aquellos que se mantienen hasta el final de la reunión. La oferta puede ser una descarga o el descuento en un producto o servicio. (Serrano et al., 2019, p.103). 
 
-    Separador
-
-    #t_1_4.titulo-segundo.color-acento-contenido
-      h2 1.4  Fuentes de información
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Fuentes de información
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -393,10 +401,11 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    Separador
-
-    #t_1_5.titulo-segundo.color-acento-contenido
-      h2 1.5  Fases
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Fases
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -414,10 +423,11 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    Separador
-
-    #t_1_6.titulo-segundo.color-acento-contenido
-      h2 1.6  Configuración de la plataforma digital
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Configuración de la plataforma digital
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -435,10 +445,6 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-8
-        .cajon.color-acento-contenido.p-4.mb-4
-          p.text-center Ahora, profundice sobre la medición de los contenidos digitales.
 
 </template>
 

@@ -36,8 +36,8 @@
           .col-md-6.mb-4.mb-md-0
             br
             h4 Generación de #[i leads] 
-            p Hay diversas operaciones y automatizaciones que generan #[i leads]: puede ser a través de #[i landing pages] con formularios donde el individuo deje sus datos, actividades de correo electrónico, #[i webinars] o incluso recursos de atracción de #[i leads] con publicaciones en el #[i blog]. 
-          
+            p Hay diversas operaciones y automatizaciones que generan leads, puede ser a través de landing pages con formularios donde el individuo deje sus datos, actividades de correo electrónico, webinars o incluso recursos de atracción de leads con publicaciones en el blog. 
+
       .py-4.py-md-5(titulo="CRM" :icono="require('@/assets/curso/temas/tema2/mm2.svg')")
         .row.align-items-center
           .col-md-6
@@ -75,33 +75,33 @@
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Ingresos promedio que cada cliente genera
+                      | Ingresos promedio que cada cliente genera.
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Tráfico natural u orgánico
+                      | Tráfico natural u orgánico.
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Vistas en el sitio web
+                      | Vistas en el sitio web.
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Porcentaje promedio de visitantes diario
+                      | Porcentaje promedio de visitantes diario.
 
                 td 
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Porcentaje promedio de duración en el sitio por visitante
+                      | Porcentaje promedio de duración en el sitio por visitante.
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Radio de rebote
+                      | Radio de rebote.
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Visitantes únicos
+                      | Visitantes únicos.
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
@@ -112,10 +112,11 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.text-center Cualquier tipo de empresa va a necesitar que su estrategia de mercadeo digital esté integrada en la estrategia de #[i marketing]. Estudie a continuación los tipos de indicadores.
           
-    Separador
-
-    #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1  Tipos de indicadores
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Tipos de indicadores
 
     .row.align-items-center
       .col-lg-3
@@ -125,7 +126,7 @@
         p Cualquier clase de empresa va a necesitar que su estrategia de mercadeo digital esté integrada en la estrategia de #[i marketing], publicidad o comunicación, según como la desarrollen al interior de cada organización. Una de las estrategias más usadas en la actualidad es la gestión de contenidos digitales, la cual tiene como finalidad compartir publicaciones de valor, con contenidos de calidad, atractivos, interesantes y deseados por el cliente. Con estos contenidos se puede llamar la atención del cliente, bien sea a través de redes sociales, #[i blog], correo electrónico y #[i landing page], además de los #[i leads] que lleguen por medio de las búsquedas realizadas en Google. 
 
     br
-    p Para analizar el trabajo de los diferentes esfuerzos realizados en #[i marketing] digital, existen diversas métricas. Los siguientes son seis aspectos que toda empresa debe medir para determinar el desempeño de cualquier esfuerzo desarrollado a través del #[i marketing] digital:
+    p Para analizar el trabajo de los diferentes esfuerzos realizados en marketing digital, existen diversas métricas. Los siguientes son seis aspectos que toda empresa debe medir para determinar el desempeño de cualquier esfuerzo desarrollado a través del marketing digital:
 
     br
     .row 
@@ -138,7 +139,7 @@
             p Valoran la interacción de los clientes con cada contenido publicado (alcance, clics, visitantes de una vez, visitantes que repiten, etc.).
           
           div(titulo="Métrica de compartición")
-            p Exponen el número de ocasiones que se compartieron los contenidos publicados por la marca. Si hay clientes que comparten los contenidos de la marca, esta es una excelente señal que muestra el buen trabajo realizado. También están los likes y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
+            p Exponen el número de ocasiones que se compartieron los contenidos publicados por la marca, lo cual es una excelente señal que evidencia el buen trabajo realizado. También están los likes y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
 
           div(titulo="Métricas de participación")
             p Valoran el nivel de compromiso (#[i engagement]) que poseen los clientes por los contenidos. Se evalúa el tipo de comentarios recibidos por cada publicación, cuánto tiempo permanecen los clientes en el sitio #[i web], #[i blog] y demás canales digitales, cuántos contenidos fueron visitados por cada cliente, etc.
@@ -147,8 +148,8 @@
             p Valoran el proceso desde el momento en que el #[i lead] fue alcanzado por alguna de las publicaciones, hasta que compró el producto o adquirió el servicio. Este proceso se hace más cómodo y fácil si la empresa cuenta con una tienda virtual.
           
           div(titulo="Métricas de ventas")
-            p Analiza el aumento y porcentaje de las ventas. Las operaciones de mercadeo se deben encaminar a la consecución de resultados que con anterioridad fueron establecidos, en factores como ingresos y ventas. Por lo tanto, deben existir conversiones, es decir, un porcentaje de clientes que terminaron comprando. Si no hubo un incremento en las ventas, la campaña no fue buena.
-          
+            p Analiza el aumento y porcentaje de las ventas. Las operaciones de mercadeo se deben encaminar a la consecución de resultados que con anterioridad fueron establecidos, en factores como ingresos y ventas. Por lo tanto, deben existir conversiones, es decir, un porcentaje de clientes que terminaron comprando. Si no hubo un incremento en las ventas, la campaña no logró su objetivo.
+            
           div(titulo="Métricas de producción/costos.")
             p Analizan la rentabilidad lograda por la inversión en cada esfuerzo de #[i marketing] digital, por cada uno de los medios o contenidos publicados. Esta inversión, además de monetaria, también se relaciona con el tiempo invertido en cada publicación.
 
@@ -158,10 +159,11 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.text-center Y esto, ¿para qué sirve?
 
-    Separador
-
-    #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2   Importancia
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Importancia
 
     .row.justify-content-center.align-items-center
       .col-lg-3
@@ -202,10 +204,11 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.text-center Por último, revise la gestión de datos en plataformas digitales.
 
-    Separador
-
-    #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3   Gestión de datos en plataformas digitales
+    .row.mt-5
+      ul.lista-ul
+        li
+          i.fa.fa-square
+          h3 Gestión de datos en plataformas digitales
 
     p Para lograr el desarrollo de un análisis coherente de las operaciones o esfuerzos de mercadeo y sus resultados, hay que tener en cuenta las diferentes plataformas digitales y las herramientas de analítica, además de tener claros conceptos muy importantes. 
 
