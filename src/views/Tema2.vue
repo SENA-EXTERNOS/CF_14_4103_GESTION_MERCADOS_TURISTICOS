@@ -13,9 +13,9 @@
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p Es vital conocer y hacer medición sobre la calidad de los contenidos compartidos con los clientes y cómo ellos los reciben. Para esto es útil analizar si ellos tienen en cuenta las sugerencias que se hacen, qué acciones toman y si lo hacen a menudo o no, datos que son fáciles de medir observando los comentarios sobre cada publicación, las interacciones en las redes sociales y el tiempo de duración en el sitio #[i web], indicadores que se extraen del #[i blog], redes sociales y Google Analytics (entrega métricas a partir de la conducta del usuario en el sitio #[i web]).
-            i.fas.fa-quote-right
+            
+            p Es vital conocer y hacer medición sobre la calidad de los contenidos compartidos con los clientes y cómo ellos los reciben. Para esto es útil analizar si ellos tienen en cuenta las sugerencias que se hacen, qué acciones toman y si lo hacen a menudo o no, datos que son fáciles de medir observando los comentarios sobre cada publicación, las interacciones en las redes sociales y el tiempo de duración en el sitio web, indicadores que se extraen del #[i blog], redes sociales y Google Analytics (entrega métricas a partir de la conducta del usuario en el sitio web).
+            
 
     .tarjeta.fondo-panel.p-4.mb-4
       SlyderB.mb-5(:datos="datosSlyder")
@@ -36,7 +36,7 @@
           .col-md-6.mb-4.mb-md-0
             br
             h4 Generación de #[i leads] 
-            p Hay diversas operaciones y automatizaciones que generan leads, puede ser a través de landing pages con formularios donde el individuo deje sus datos, actividades de correo electrónico, webinars o incluso recursos de atracción de leads con publicaciones en el blog. 
+            p Hay diversas operaciones y automatizaciones que generan <em>leads</em>, puede ser a través de <em>landing pages</em> con formularios donde el individuo deje sus datos, actividades de correo electrónico, <em>webinars</em> o incluso recursos de atracción de <em>leads</em> con publicaciones en el <em>blog</em>. 
 
       .py-4.py-md-5(titulo="CRM" :icono="require('@/assets/curso/temas/tema2/mm2.svg')")
         .row.align-items-center
@@ -46,7 +46,7 @@
           .col-md-6.mb-4.mb-md-0
             br
             h4 CRM
-            p Para analizar la eficacia de esas operaciones se debe contar con métricas o indicadores para conocer, a ciencia cierta, cuánto ha aumentado el número de #[i leads] y si estos se pueden convertir en clientes potenciales. En un CRM (#[i software] de gestión de clientes), por ejemplo, se puede conocer cuántos de los #[i leads] que brindaron sus correos electrónicos en un formulario llegaron al sitio #[i web] y desde qué medio (red social, #[i blog], correo electrónico, etc.).
+            p Para analizar la eficacia de esas operaciones se debe contar con métricas o indicadores para conocer, a ciencia cierta, cuánto ha aumentado el número de #[i leads] y si estos se pueden convertir en clientes potenciales. En un CRM (#[i software] de gestión de clientes), por ejemplo, se puede conocer cuántos de los #[i leads] que brindaron sus correos electrónicos en un formulario llegaron al sitio web y desde qué medio (red social, #[i blog], correo electrónico, etc.).
         
       .py-4.py-md-5(titulo="Indicadores de conversión" :icono="require('@/assets/curso/temas/tema2/mm3.svg')")
         .row.align-items-center
@@ -105,7 +105,7 @@
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Conversión de leads en clientes, etc.
+                      | Conversión de #[i leads] en clientes, etc.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -126,7 +126,7 @@
         p Cualquier clase de empresa va a necesitar que su estrategia de mercadeo digital esté integrada en la estrategia de #[i marketing], publicidad o comunicación, según como la desarrollen al interior de cada organización. Una de las estrategias más usadas en la actualidad es la gestión de contenidos digitales, la cual tiene como finalidad compartir publicaciones de valor, con contenidos de calidad, atractivos, interesantes y deseados por el cliente. Con estos contenidos se puede llamar la atención del cliente, bien sea a través de redes sociales, #[i blog], correo electrónico y #[i landing page], además de los #[i leads] que lleguen por medio de las búsquedas realizadas en Google. 
 
     br
-    p Para analizar el trabajo de los diferentes esfuerzos realizados en marketing digital, existen diversas métricas. Los siguientes son seis aspectos que toda empresa debe medir para determinar el desempeño de cualquier esfuerzo desarrollado a través del marketing digital:
+    p Para analizar el trabajo de los diferentes esfuerzos realizados en <em>marketing</em> digital, existen diversas métricas. Los siguientes son seis aspectos que toda empresa debe medir para determinar el desempeño de cualquier esfuerzo desarrollado a través del <em>marketing</em> digital:
 
     br
     .row 
@@ -139,10 +139,10 @@
             p Valoran la interacción de los clientes con cada contenido publicado (alcance, clics, visitantes de una vez, visitantes que repiten, etc.).
           
           div(titulo="Métrica de compartición")
-            p Exponen el número de ocasiones que se compartieron los contenidos publicados por la marca, lo cual es una excelente señal que evidencia el buen trabajo realizado. También están los likes y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
+            p Exponen el número de veces que se compartieron los contenidos publicados por la marca, lo cual es una excelente señal que evidencia el buen trabajo realizado. También están los "me gusta" y los comentarios. Estas tres métricas juntas, conforman el número de interacciones que una publicación obtuvo con los clientes, y sirven para que la empresa llame la atención de otros clientes potenciales.
 
           div(titulo="Métricas de participación")
-            p Valoran el nivel de compromiso (#[i engagement]) que poseen los clientes por los contenidos. Se evalúa el tipo de comentarios recibidos por cada publicación, cuánto tiempo permanecen los clientes en el sitio #[i web], #[i blog] y demás canales digitales, cuántos contenidos fueron visitados por cada cliente, etc.
+            p Valoran el nivel de compromiso (#[i engagement]) que poseen los clientes por los contenidos. Se evalúa el tipo de comentarios recibidos por cada publicación, cuánto tiempo permanecen los clientes en el sitio web, #[i blog] y demás canales digitales, cuántos contenidos fueron visitados por cada cliente, etc.
           
           div(titulo="Métricas de <em>leads</em>")
             p Valoran el proceso desde el momento en que el #[i lead] fue alcanzado por alguna de las publicaciones, hasta que compró el producto o adquirió el servicio. Este proceso se hace más cómodo y fácil si la empresa cuenta con una tienda virtual.
@@ -150,7 +150,7 @@
           div(titulo="Métricas de ventas")
             p Analiza el aumento y porcentaje de las ventas. Las operaciones de mercadeo se deben encaminar a la consecución de resultados que con anterioridad fueron establecidos, en factores como ingresos y ventas. Por lo tanto, deben existir conversiones, es decir, un porcentaje de clientes que terminaron comprando. Si no hubo un incremento en las ventas, la campaña no logró su objetivo.
             
-          div(titulo="Métricas de producción/costos.")
+          div(titulo="Métricas de producción/costos")
             p Analizan la rentabilidad lograda por la inversión en cada esfuerzo de #[i marketing] digital, por cada uno de los medios o contenidos publicados. Esta inversión, además de monetaria, también se relaciona con el tiempo invertido en cada publicación.
 
     br
@@ -184,7 +184,7 @@
 
         .row.align-items-center
           .col-lg-7.mb-4.mb-md-0
-            p La analítica #[i web] es un proceso constante que va ligado con la evolución y optimización de Internet, por lo que se hace vital el análisis y la documentación constante de la conducta del cliente y los cambios que sufra, para luego desarrollar un plan de mejoramiento. Ahora, hablando de la gestión de contenidos digitales, se debe recordar que pueden estar integrados a través de otras operaciones de publicidad y mercadeo como, por ejemplo, plataformas virtuales o portales digitales donde se publican contenidos.
+            p La analítica web es un proceso constante que va ligado con la evolución y optimización de Internet, por lo que se hace vital el análisis y la documentación constante de la conducta del cliente y los cambios que sufra, para luego desarrollar un plan de mejoramiento. Ahora, hablando de la gestión de contenidos digitales, se debe recordar que pueden estar integrados a través de otras operaciones de publicidad y mercadeo como, por ejemplo, plataformas virtuales o portales digitales donde se publican contenidos.
        
           .col-lg-5
             figure
@@ -212,7 +212,7 @@
 
     p Para lograr el desarrollo de un análisis coherente de las operaciones o esfuerzos de mercadeo y sus resultados, hay que tener en cuenta las diferentes plataformas digitales y las herramientas de analítica, además de tener claros conceptos muy importantes. 
 
-    p En cuanto a la gestión de datos, puede revisar los contenidos dispuestos en el #[b Anexo 5]
+    p En cuanto a la gestión de datos, puede revisar los contenidos dispuestos en el #[b Anexo 5].
 
     br
     .row.mb-3.justify-content-center.align-items-center
@@ -233,7 +233,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4
-          p.text-center De acuerdo a lo anterior, es momento de mirar la síntesis de este componente formativo.
+          p.text-center Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

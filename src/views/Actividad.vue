@@ -12,7 +12,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Configuración de la plataforma digital
-        p.mb-4 El objetivo de la siguiente actividad es evaluar el nivel de interiorización que logró en la presentación de los temas. A continuación encontrará una serie de preguntas de opción múltiple, escoja la que considere correcta.
+        p.mb-4 El objetivo de la siguiente actividad es evaluar el nivel de interiorización que logró en la presentación de los temas. A continuación, encontrará una serie de preguntas de opción múltiple, escoja la que considere correcta.
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

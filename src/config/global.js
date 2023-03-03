@@ -193,7 +193,7 @@ export default {
     },
     {
       referencia:
-        'Almeida Vidal, J. C., Álvarez, S., Ferrer, B., Lapor, M., Ribeiro, P. y Soeiro, A. B. (2020). <em>Plataformas Digitales En Los Alquileres Vacacionales. </em>Madrid: Reus.',
+        'Almeida Vidal, J. et al. (2020). <em>Plataformas Digitales En Los Alquileres Vacacionales. </em>Madrid: Reus.',
       link: '',
     },
     {
@@ -223,7 +223,7 @@ export default {
     },
     {
       referencia:
-        'Libro	Serrano, E., Carrancho, M. T., Ortega, J., Iglesias, C., Ortego, M., y Navas, S. (2019). <em>Medios de Comunicación, Contenidos Digitales y Derecho de Autor. </em>Primo.',
+        'Libro	Serrano, E., et al. (2019). <em>Medios de Comunicación, Contenidos Digitales y Derecho de Autor. </em>Primo.',
       link: '',
     },
     {

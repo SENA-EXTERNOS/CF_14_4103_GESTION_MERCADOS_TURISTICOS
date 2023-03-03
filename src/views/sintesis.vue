@@ -3,15 +3,13 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
   
-    .row.justify-content-center
-      .col-lg-8.sm-8
-        .titulo-sexto.color-acento-contenido
-          b Gestión de mercados de productos turísticos
-          p Síntesis: Configuración de la plataforma digital
+    .row.justify-content
+      
+        
 
       .col-lg-2
-        figure
-        img(src="@/assets/curso/temas/ssena.svg" width='89,61' height='86,7')
+    
+        
 
     .row.justify-content-center
       .col-lg-10.mb-5

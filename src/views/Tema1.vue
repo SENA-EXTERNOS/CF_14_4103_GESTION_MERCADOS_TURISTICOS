@@ -10,14 +10,14 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Según #[b Arjonilla y Medina] (2013)
+        p Según #[b Arjonilla y Medina] (2013):
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p La gestión de la información es un asunto ejercido por un grupo de acciones que admiten el logro de los datos, de una forma oportuna, selecta y económica, para ser usados en los procesos y el éxito de una empresa, formando conocimientos nuevos (p. 12). Administrar la información tiene que ver con la búsqueda de nuevos significados con base en el análisis, para lograr un impacto positivo en el ambiente de toda empresa.
-            i.fas.fa-quote-right
-
+            
+            p La gestión de la información es un asunto ejercido por un grupo de acciones que admiten el logro de los datos, de una forma oportuna, selecta y económica, para ser usados en los procesos y el éxito de una empresa, formando conocimientos nuevos. (p.12) 
+            
+    p.mb-4 Administrar la información tiene que ver con la búsqueda de nuevos significados con base en el análisis, para lograr un impacto positivo en el ambiente de toda empresa.
     p.mb-4 La gestión de información se compone por un grupo de acciones que deben estar presentes en todas las fases de la empresa; necesita de un plan de acción, una toma de decisiones y la realización de evaluaciones periódicas. A través de esta se suministran los recursos informáticos que son precisos para tomar buenas decisiones y desarrollar conocimientos nuevos que permitan la eficiencia y la calidad en los bienes y servicios de las empresas.
     p.mb-4 Los objetivos de la gestión de información los descubre tocando cada una de las siguientes  imágenes:
 
@@ -52,14 +52,16 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Ahora bien, como dice López Carreño (2017).
+
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p La gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad (p. 3), por eso, la siguiente información será de utilidad.
-            i.fas.fa-quote-right
-
+            p Ahora bien, según López Carreño (2017), la gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad.
+            i.fas.fa-quote-right 
+            p (p.3)
+            
+    p Por eso, la siguiente información será de utilidad.
     p Muy a menudo se escucha que el poder lo tiene quien posee la información; no obstante, en realidad no existe ninguna garantía de que una empresa puede acceder a una cantidad grande de información, a menos de que puede darle un uso correcto al método de las 4S’s:
     br
     .row 
@@ -83,23 +85,23 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Entonces, no alcanza con poseer toda la informaciónn, hay que saber trabajarla y analizarla.
+        p Entonces, no alcanza con poseer toda la información, <b>hay que saber trabajarla y analizarla</b>.
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p Por eso, la gestión de la información es una destreza vital para quienes actúan en una economía digital. (#[b López Carreño,] 2013, p. 78).
-            i.fas.fa-quote-right
+
+            p Por eso, la gestión de la información es una destreza vital para quienes actúan en una economía digital. (López Carreño, 2013, p. 78).
+            
 
         br
 
-        p #[b Urreta Okeranza] (2020) menciona que:
+        
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p Hay una concepción generalizada en la que el turismo es reconocido como un fenómeno a nivel económico, social y cultural, el cual ocupa un lugar predilecto dentro de las normas de planeación territorial por establecer un eje transversal que contribuye al progreso local. La información que se orienta al estímulo del consumo turístico por parte del cliente para enriquecer la experiencia personal también es primordial, pues mejora el papel del turismo a nivel territorial, lo que finalmente puede prolongar su estadía y certificar su fidelización.
-            i.fas.fa-quote-right
+            
+            p Urreta Okeranza (2020) menciona que hay una concepción generalizada en la que <b>el turismo es reconocido como un fenómeno a nivel económico, social y cultural</b>, el cual ocupa un lugar predilecto dentro de las normas de planeación territorial por establecer un eje transversal que contribuye al progreso local. La información que se orienta al estímulo del consumo turístico por parte del cliente para enriquecer la experiencia personal también es primordial, pues mejora el papel del turismo a nivel territorial, lo que finalmente puede prolongar su estadía y certificar su fidelización.
+            
 
     p Ya se conoce que el turismo genera un gran impacto industrial, ahora se verá cómo los hábitos de compra podrían generar mayores aportes:
 
@@ -115,7 +117,7 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p.text-center De acuerdo con lo anterior, en la siguiente infografía se encuentra información importante sobre la prestación del servicio y la atención informativa.
 
-    p.mb-4 Tener en cuenta estos factores:
+    p.mb-4 Es necesario tener en cuenta estos factores:
 
     figure
       img(src='@/assets/curso/temas/tema1/img7.svg', alt='') 
@@ -149,7 +151,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/linea1.png', alt='Texto que describa la imagen')
           .col-md-6
-            p También es fácil de usar. Es implementada para la configuración de un software, pues posee un lenguaje en formato binario.
+            p Rápido y fácil de usar. Los datos obtenidos se hallan condensados en tablas que se pueden relacionar con información colectiva en distintas tablas.
             
         .row.justify-content-center(titulo="Gestión de datos planos")
           .col-md-4.mb-4.mb-md-0
@@ -157,7 +159,7 @@
               img(src='@/assets/curso/temas/tema1/linea2.png', alt='Texto que describa la imagen')
 
           .col-md-6
-            p También es fácil de usar. Usada para la configuración de un software pues posee un lenguaje en formato binario. 
+            p También es fácil de usar. Es implementada para la configuración de un <em>software</em>, pues posee un lenguaje en formato binario. 
         
           
         .row.justify-content-center(titulo="Gestión de datos jerárquicos")
@@ -204,8 +206,9 @@
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p La transformación digital ya es una realidad en muchos sectores, y el turismo no es la excepción, sobre todo durante y después del Covid-19, cuando la tecnología se convirtió en una aliada para lograr la recuperación empresarial (p. 15). 
+            p La transformación digital ya es una realidad en muchos sectores, y el turismo no es la excepción, sobre todo durante y después del Covid-19, cuando la tecnología se convirtió en una aliada para lograr la recuperación empresarial. 
             i.fas.fa-quote-right
+            p (p. 15)
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -214,7 +217,7 @@
         
         p Durante las fechas más críticas de la pandemia, la ONU (Organización de las Naciones Unidas) vaticinó pérdidas por más de USD 200 millones para el área del turismo, siendo esta una de las afectadas por la situación mundial. Pero con el uso de tecnologías disruptivas como, por ejemplo, la Internet de las cosas (IoT), el big data y la inteligencia artificial, se pudo hacer una revolución en la dinámica de los servicios turísticos, reactivando los viajes y accediendo a itinerarios más seguros.
  
-        p El sector turístico ha evolucionado, y sin lugar a  duda, no es el mismo de antes del Covid-19, ni tampoco volverá a ser el mismo en el futuro. El turista de hoy busca experiencias de viaje hechas a su medida; por esta razón, requiere del uso de la tecnología para entregar, de manera personalizada, las experiencias de los clientes, teniendo en cuenta sus deseos, necesidades, predicciones y gustos específicos. La tecnología facilitó las reservaciones turísticas y poseer un mejor control de estas, tema que fue vital en tiempos de aforos limitados y de restricciones. La tecnología permitió además que el sector turístico pudiera mejorar la experiencia de consumo de los clientes y la gestión de los viajes, lo que fue posible gracias a unas dinámicas de negocio que facilitaron a las empresas conocer mejor las necesidades de los turistas, instaurar vínculos cercanos y certificar el bienestar y la seguridad de los clientes.
+        p El sector turístico ha evolucionado, y sin lugar a  duda, no es el mismo de antes del Covid-19, ni tampoco volverá a ser el mismo en el futuro. El turista de hoy busca experiencias de viaje hechas a su medida; por esta razón, requiere del uso de la tecnología para entregar, de manera personalizada, las experiencias de los clientes, teniendo en cuenta sus deseos, necesidades, predilecciones y gustos específicos. La tecnología facilitó las reservaciones turísticas y poseer un mejor control de estas, tema que fue vital en tiempos de aforos limitados y de restricciones. La tecnología permitió además que el sector turístico pudiera mejorar la experiencia de consumo de los clientes y la gestión de los viajes, lo que fue posible gracias a unas dinámicas de negocio que facilitaron a las empresas conocer mejor las necesidades de los turistas, instaurar vínculos cercanos y certificar el bienestar y la seguridad de los clientes.
 
         p En cuanto a los ejemplos de herramientas, es de gran utilidad revisar los contenidos dispuestos en el Anexo 1.
        
@@ -244,20 +247,22 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p #[b Serrano et al.] (2019) mencionan que:
+        p Serrano et al., (2019) mencionan que:
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p El #[i marketing] de contenidos digitales es vital para alcanzar al público objetivo, pues es una de las estrategias de #[i marketing] digital más importantes de posicionamiento y fidelización, ya que mejora el #[i branding] y el #[i engagement] (compromiso) con las marcas (p. 28).
+            p El #[i marketing] de contenidos digitales es vital para alcanzar al público objetivo, pues es una de las estrategias de #[i marketing] digital más importantes de posicionamiento y fidelización, ya que mejora el #[i branding] y el #[i engagement] (compromiso) con las marcas.
             i.fas.fa-quote-right
+            p (p.28).
+            
 
     .row.align-items-center
       .col-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/min2.svg', alt='Texto que describa la imagen').banner-principal-decorativo-3
       .col-lg-10
-        p Es la columna vertebral de lo que se conoce como <i>inbound marketing</i> (<i>marketing</i> de atracción), donde se plantean contenidos anhelados por clientes potenciales, entregando contenidos que aportan información de valor que servirá para que los clientes elijan la marca en un futuro cercano.
+        p Es la columna vertebral de lo que se conoce como <i>inbound marketing</i> (<i>marketing</i> de atracción), donde se plantean contenidos anhelados por clientes potenciales, los cuales aportan información de valor que servirá para que los clientes elijan la marca en un futuro cercano.
 
         p Los contenidos digitales son publicaciones permanentes que se exhiben en redes sociales, #[i blogs] y #[i landing pages.] Se diseñan en diferentes formatos y son vitales para toda estrategia de mercadeo que una marca se proponga crear, porque el contenido de calidad es una de las columnas fundamentales de todo proyecto digital.
 
@@ -271,7 +276,7 @@
 
     .row.align-items-center
       .col-lg-9
-        p Un CMS es un sistema de gestión de contenidos, es decir, un #[i software] informático que admite establecer un ambiente de trabajo para crear y administrar contenidos, especialmente en páginas #[i web, landing pages, blog] y redes sociales. En la gestión hay roles, tales como administrador, editor, participantes y fanáticos. Es vital tener claro quién es el público objetivo y descubrir qué información demanda en todas las etapas comunicacionales que tenga con la marca; así se podrán elegir los diferentes tipos de contenidos o formatos digitales que se van a producir y a publicar. También es vital tener claro cuáles son los recursos (humanos, técnicos y tecnológicos) que la empresa posee para elegir los formatos de las publicaciones y en qué medios han de ser publicados. A continuación, se enumeran algunos de los tipos de contenidos digitales que pueden ser usados en toda estrategia de #[i marketing] de contenidos. Lo ideal es centrarse en dos o tres, lo que hará mucho más eficiente la labor:
+        p Un CMS es un sistema de gestión de contenidos, es decir, un #[i software] informático que admite establecer un ambiente de trabajo para crear y administrar contenidos, especialmente en páginas web, #[ilanding pages, blog] y redes sociales. En la gestión hay roles, tales como administrador, editor, participantes y fanáticos. Es vital tener claro quién es el público objetivo y descubrir qué información demanda en todas las etapas comunicacionales que tenga con la marca; así se podrán elegir los diferentes tipos de contenidos o formatos digitales que se van a producir y a publicar. También es vital tener claro cuáles son los recursos (humanos, técnicos y tecnológicos) que la empresa posee para elegir los formatos de las publicaciones y en qué medios han de ser publicados. A continuación, se enumeran algunos de los tipos de contenidos digitales que pueden ser usados en toda estrategia de #[i marketing] de contenidos. Lo ideal es centrarse en dos o tres, lo que hará mucho más eficiente la labor:
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema1/g6.png', alt='Texto que describa la imagen').banner-principal-decorativo-3
@@ -308,7 +313,7 @@
                   img(src='@/assets/curso/temas/tema1/m2.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 #[i E-book]
-                p Es un libro en formato digital que se entrega al cliente, bien sea a través de un pago o de forma gratuita. El formato gratuito es vital para captar leads (clientes potenciales) y brindarles más información de valor, que sea coherente con sus deseos y necesidades de información. Para descargar <i>e-books</i> los leads deben ir a una <i>landing</i> page en la cual dejan sus datos de contacto; una vez se tengan estos datos, se pueden diseñar distintas estrategias y acciones para convertirlos en clientes habituales. Un e-book de turismo puede hablar de regiones, sitios turísticos, historias de las grandes ciudades, gastronomía, etc. 
+                p Es un libro en formato digital que se entrega al cliente, bien sea a través de un pago o de forma gratuita. El formato gratuito es vital para captar leads (clientes potenciales) y brindarles más información de valor, que sea coherente con sus deseos y necesidades de información. Para descargar <em>e-books</em> los <em>leads</em> deben ir a una <em>landing page</em> en la cual dejan sus datos de contacto; una vez se tengan estos datos, se pueden diseñar distintas estrategias y acciones para convertirlos en clientes habituales. Un <em>e-book</em> de turismo puede hablar de regiones, sitios turísticos, historias de las grandes ciudades, gastronomía, etc. 
 
           .tarjeta.color-acento-botones.p-3(x="34.5%" y="60%" numero="")
             .row
@@ -317,7 +322,7 @@
                   img(src='@/assets/curso/temas/tema1/m3.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 Infografías
-                p Su objetivo es la transmisión de información de manera didáctica y visual, captando la atención de los clientes a través de un diseño con poco texto y mucho poder gráfico (ilustraciones, gráficos, fotos, diseño, etc.). Es un tipo de contenido muy usual en comunidades virtuales y foros, sirviendo para la obtención de #[i leads], mejorar el posicionamiento #[i web] y fortalecer la marca. Representan una de las maneras más sencillas y directas de compartir contenido dando valor a los clientes, ya que su finalidad es conseguir que los espectadores comprendan la información rápidamente.  
+                p Su objetivo es la transmisión de información de manera didáctica y visual, captando la atención de los clientes a través de un diseño con poco texto y mucho poder gráfico (ilustraciones, gráficos, fotos, diseño, etc.). Es un tipo de contenido muy usual en comunidades virtuales y foros, sirviendo para la obtención de #[i leads], mejorar el posicionamiento web y fortalecer la marca. Representan una de las maneras más sencillas y directas de compartir contenido dando valor a los clientes, ya que su finalidad es conseguir que los espectadores comprendan la información rápidamente.  
 
           .tarjeta.color-acento-botones.p-3(x="42.2%" y="79%" numero="")
             .row
@@ -326,7 +331,7 @@
                   img(src='@/assets/curso/temas/tema1/m4.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 Boletines
-                p También conocido como #[i newsletter], es una publicación que se puede compartir a unos suscriptores, bien a través de un correo electrónico o a través del sitio #[i web], dando la oportunidad de descarga por parte del cliente. Su distribución se puede hacer con una periodicidad semanal, quincenal, mensual, bimestral o trimestral. Suelen estar conformados por diferentes artículos de valor para los suscriptores, con las noticias más relevantes de la empresa o del sector empresarial. Es posible que en un boletín se pueda integrar la oferta de un producto con el fin de convertir al suscriptor en #[i lead] y luego en cliente habitual.  
+                p También conocido como #[i newsletter], es una publicación que se puede compartir a unos suscriptores, bien a través de un correo electrónico o a través del sitio web, dando la oportunidad de descarga por parte del cliente. Su distribución se puede hacer con una periodicidad semanal, quincenal, mensual, bimestral o trimestral. Suelen estar conformados por diferentes artículos de valor para los suscriptores, con las noticias más relevantes de la empresa o del sector empresarial. Es posible que en un boletín se pueda integrar la oferta de un producto con el fin de convertir al suscriptor en #[i lead] y luego en cliente habitual.  
 
           .tarjeta.color-acento-botones.p-3(x="54.5%" y="79%" numero="")
             .row
@@ -335,7 +340,7 @@
                   img(src='@/assets/curso/temas/tema1/m5.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 #[i Podcast]
-                p Es un contenido digital que tiene formato de audio o video, el cual se puede escuchar o descargar de la #[i web]. Puede estar diseñado al estilo de un programa radial, ya que en cada capítulo se puede hablar de temas actuales y de relevancia para los clientes potenciales. Se puede publicar en el sitio #[i web], en el #[i blog], en las redes sociales o en plataformas destinadas para ello, como por ejemplo SoundCloud, iVoox, YouTube, iTunes o Spotify, entre otras. El uso del #[i podcast] se enfoca más en la fidelización de los clientes potenciales y en la promoción de los contenidos. Es vital publicar contenidos que tengan temas atrayentes, como noticias, novedades del área, tendencias, etc. 
+                p Es un contenido digital que tiene formato de audio o video, el cual se puede escuchar o descargar de la web. Puede estar diseñado al estilo de un programa radial, ya que en cada capítulo se puede hablar de temas actuales y de relevancia para los clientes potenciales. Se puede publicar en el sitio web, en el #[i blog], en las redes sociales o en plataformas destinadas para ello, como por ejemplo SoundCloud, iVoox, YouTube, iTunes o Spotify, entre otras. El uso del #[i podcast] se enfoca más en la fidelización de los clientes potenciales y en la promoción de los contenidos. Es vital publicar contenidos que tengan temas atrayentes, como noticias, novedades del área, tendencias, etc. 
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="60%" numero="")
             .row
