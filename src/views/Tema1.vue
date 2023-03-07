@@ -15,7 +15,7 @@
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
             
-            p La gestión de la información es un asunto ejercido por un grupo de acciones que admiten el logro de los datos, de una forma oportuna, selecta y económica, para ser usados en los procesos y el éxito de una empresa, formando conocimientos nuevos. (p.12) 
+            p La gestión de la información es un asunto ejercido por un grupo de acciones que admiten el logro de los datos, de una forma oportuna, selecta y económica, para ser usados en los procesos y el éxito de una empresa, formando conocimientos nuevos (p. 12).
             
     p.mb-4 Administrar la información tiene que ver con la búsqueda de nuevos significados con base en el análisis, para lograr un impacto positivo en el ambiente de toda empresa.
     p.mb-4 La gestión de información se compone por un grupo de acciones que deben estar presentes en todas las fases de la empresa; necesita de un plan de acción, una toma de decisiones y la realización de evaluaciones periódicas. A través de esta se suministran los recursos informáticos que son precisos para tomar buenas decisiones y desarrollar conocimientos nuevos que permitan la eficiencia y la calidad en los bienes y servicios de las empresas.
@@ -56,10 +56,7 @@
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p Ahora bien, según López Carreño (2017), la gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad.
-            i.fas.fa-quote-right 
-            p (p.3)
+            p “Ahora bien, como dice López Carreño (2017). La gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad”. (p. 3)
             
     p Por eso, la siguiente información será de utilidad.
     p Muy a menudo se escucha que el poder lo tiene quien posee la información; no obstante, en realidad no existe ninguna garantía de que una empresa puede acceder a una cantidad grande de información, a menos de que puede darle un uso correcto al método de las 4S’s:
@@ -85,22 +82,19 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Entonces, no alcanza con poseer toda la información, <b>hay que saber trabajarla y analizarla</b>.
+        p Entonces, no alcanza con poseer toda la informaciónn, hay que saber trabajarla y analizarla.
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
 
-            p Por eso, la gestión de la información es una destreza vital para quienes actúan en una economía digital. (López Carreño, 2013, p. 78).
+            p Por eso, la gestión de la información es una destreza vital para quienes actúan en una economía digital. (<b>López Carreño</b>, 2013, p. 78).
             
 
         br
 
         
       
-        .bloque-texto-b.color-acento-contenido
-          .bloque-texto-b__texto
-            
-            p Urreta Okeranza (2020) menciona que hay una concepción generalizada en la que <b>el turismo es reconocido como un fenómeno a nivel económico, social y cultural</b>, el cual ocupa un lugar predilecto dentro de las normas de planeación territorial por establecer un eje transversal que contribuye al progreso local. La información que se orienta al estímulo del consumo turístico por parte del cliente para enriquecer la experiencia personal también es primordial, pues mejora el papel del turismo a nivel territorial, lo que finalmente puede prolongar su estadía y certificar su fidelización.
+        p <b>Urreta Okeranza</b> (2020) menciona que hay una concepción generalizada en la que el turismo es reconocido como un fenómeno a nivel económico, social y cultural, el cual ocupa un lugar predilecto dentro de las normas de planeación territorial por establecer un eje transversal que contribuye al progreso local. La información que se orienta al estímulo del consumo turístico por parte del cliente para enriquecer la experiencia personal también es primordial, pues mejora el papel del turismo a nivel territorial, lo que finalmente puede prolongar su estadía y certificar su fidelización.
             
 
     p Ya se conoce que el turismo genera un gran impacto industrial, ahora se verá cómo los hábitos de compra podrían generar mayores aportes:
@@ -205,10 +199,7 @@
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p La transformación digital ya es una realidad en muchos sectores, y el turismo no es la excepción, sobre todo durante y después del Covid-19, cuando la tecnología se convirtió en una aliada para lograr la recuperación empresarial. 
-            i.fas.fa-quote-right
-            p (p. 15)
+            p “La transformación digital ya es una realidad en muchos sectores, y el turismo no es la excepción, sobre todo durante y después del Covid-19, cuando la tecnología se convirtió en una aliada para lograr la recuperación empresarial” (p. 15). 
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
@@ -245,16 +236,13 @@
           i.fa.fa-square
           h3 Contenidos digitales
 
-    .row.mb-5.justify-content-center.align-items-center
+    .row.mb-3.justify-content-center.align-items-center
       .col-lg-8
-        p Serrano et al., (2019) mencionan que:
+        p Serrano et al. (2019) mencionan que:
       
-        .bloque-texto-b.color-acento-contenido
-          .bloque-texto-b__texto
-            i.fas.fa-quote-left
-            p El #[i marketing] de contenidos digitales es vital para alcanzar al público objetivo, pues es una de las estrategias de #[i marketing] digital más importantes de posicionamiento y fidelización, ya que mejora el #[i branding] y el #[i engagement] (compromiso) con las marcas.
-            i.fas.fa-quote-right
-            p (p.28).
+        .bloque-texto-b.color-acento-contenido.mb-0
+          .bloque-texto-b__texto.mb-0
+            p "El #[i marketing] de contenidos digitales es vital para alcanzar al público objetivo, pues es una de las estrategias de #[i marketing] digital más importantes de posicionamiento y fidelización, ya que mejora el #[i branding] y el #[i engagement] (compromiso) con las marcas." (p. 28).
             
 
     .row.align-items-center
@@ -262,7 +250,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/min2.svg', alt='Texto que describa la imagen').banner-principal-decorativo-3
       .col-lg-10
-        p Es la columna vertebral de lo que se conoce como <i>inbound marketing</i> (<i>marketing</i> de atracción), donde se plantean contenidos anhelados por clientes potenciales, los cuales aportan información de valor que servirá para que los clientes elijan la marca en un futuro cercano.
+        p Es la columna vertebral de lo que se conoce como <i>inbound marketing</i> (<i>marketing</i> de atracción), donde se plantean contenidos anhelados por clientes potenciales, entregando contenidos que aportan información de valor que servirá para que los clientes elijan la marca en un futuro cercano.
 
         p Los contenidos digitales son publicaciones permanentes que se exhiben en redes sociales, #[i blogs] y #[i landing pages.] Se diseñan en diferentes formatos y son vitales para toda estrategia de mercadeo que una marca se proponga crear, porque el contenido de calidad es una de las columnas fundamentales de todo proyecto digital.
 

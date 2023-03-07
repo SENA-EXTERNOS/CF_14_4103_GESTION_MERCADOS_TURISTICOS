@@ -105,7 +105,7 @@
                   ul.lista-ul.mb-3
                     li 
                       i.fas.fa-check
-                      | Conversión de #[i leads] en clientes, etc.
+                      p Conversión de #[i leads] en clientes, etc.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
