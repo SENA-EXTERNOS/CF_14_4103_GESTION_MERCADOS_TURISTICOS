@@ -56,7 +56,7 @@
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
-            p “Ahora bien, como dice López Carreño (2017). La gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad”. (p. 3)
+            p Ahora bien, según López Carreño (2017), “la gestión de la información digital es una destreza vital para el éxito empresarial en la actualidad” (p.3). 
             
     p Por eso, la siguiente información será de utilidad.
     p Muy a menudo se escucha que el poder lo tiene quien posee la información; no obstante, en realidad no existe ninguna garantía de que una empresa puede acceder a una cantidad grande de información, a menos de que puede darle un uso correcto al método de las 4S’s:
@@ -88,14 +88,8 @@
           .bloque-texto-b__texto
 
             p Por eso, la gestión de la información es una destreza vital para quienes actúan en una economía digital. (<b>López Carreño</b>, 2013, p. 78).
-            
-
         br
-
-        
-      
         p <b>Urreta Okeranza</b> (2020) menciona que hay una concepción generalizada en la que el turismo es reconocido como un fenómeno a nivel económico, social y cultural, el cual ocupa un lugar predilecto dentro de las normas de planeación territorial por establecer un eje transversal que contribuye al progreso local. La información que se orienta al estímulo del consumo turístico por parte del cliente para enriquecer la experiencia personal también es primordial, pues mejora el papel del turismo a nivel territorial, lo que finalmente puede prolongar su estadía y certificar su fidelización.
-            
 
     p Ya se conoce que el turismo genera un gran impacto industrial, ahora se verá cómo los hábitos de compra podrían generar mayores aportes:
 
@@ -204,7 +198,7 @@
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/g5.png', alt='Texto que describa la imagen').banner-principal-decorativo-3
+          img.mb-4(src='@/assets/curso/temas/tema1/g5.png', alt='Texto que describa la imagen').banner-principal-decorativo-3
         
         p Durante las fechas más críticas de la pandemia, la ONU (Organización de las Naciones Unidas) vaticinó pérdidas por más de USD 200 millones para el área del turismo, siendo esta una de las afectadas por la situación mundial. Pero con el uso de tecnologías disruptivas como, por ejemplo, la Internet de las cosas (IoT), el big data y la inteligencia artificial, se pudo hacer una revolución en la dinámica de los servicios turísticos, reactivando los viajes y accediendo a itinerarios más seguros.
  
@@ -242,7 +236,7 @@
       
         .bloque-texto-b.color-acento-contenido.mb-0
           .bloque-texto-b__texto.mb-0
-            p "El #[i marketing] de contenidos digitales es vital para alcanzar al público objetivo, pues es una de las estrategias de #[i marketing] digital más importantes de posicionamiento y fidelización, ya que mejora el #[i branding] y el #[i engagement] (compromiso) con las marcas." (p. 28).
+            p "El #[i marketing] de contenidos digitales es vital para alcanzar al público objetivo, pues es una de las estrategias de #[i marketing] digital más importantes de posicionamiento y fidelización, ya que mejora el <em> branding</em> y el <em>engagement</em> (compromiso) con las marcas." (p. 28).
             
 
     .row.align-items-center
