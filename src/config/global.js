@@ -113,14 +113,6 @@ export default {
       link:
         'https://www.researchgate.net/publication/347943407_ANALISIS_DE_CONTENIDOS_DIGITALES_Y_SU_CONTRIBUCION_A_LA_IDENTIDAD_A_TRAVES_DE_REDESSOCIALES_DE_LOS_RESTAURANTES_DE_COMIDA_RAPIDAS_EN_LA_CIUDAD_DE_BOGOTA',
     },
-    {
-      tema: 'Gestión de datos en plataformas digitales',
-      referencia:
-        'Cámara de Comercio de Bogotá (2020). <i>Estrategia de Marketing Digital (Capítulo 2 Monitoreo de la estrategia)</i>.',
-      tipo: 'Informe',
-      link:
-        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/25723/Estrategia%20de%20Marketing%20Digital%20%282%29%202020%20BEATRIZ%20TAPIA.pdf?sequence=2&isAllowed=y',
-    },
   ],
   glosario: [
     {
