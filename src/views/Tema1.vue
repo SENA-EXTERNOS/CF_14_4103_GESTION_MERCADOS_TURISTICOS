@@ -82,7 +82,7 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-8
-        p Entonces, no alcanza con poseer toda la informaciónn, hay que saber trabajarla y analizarla.
+        p Entonces, no alcanza con poseer toda la información, hay que saber trabajarla y analizarla.
       
         .bloque-texto-b.color-acento-contenido
           .bloque-texto-b__texto
@@ -258,7 +258,7 @@
 
     .row.align-items-center
       .col-lg-9
-        p Un CMS es un sistema de gestión de contenidos, es decir, un #[i software] informático que admite establecer un ambiente de trabajo para crear y administrar contenidos, especialmente en páginas web, #[ilanding pages, blog] y redes sociales. En la gestión hay roles, tales como administrador, editor, participantes y fanáticos. Es vital tener claro quién es el público objetivo y descubrir qué información demanda en todas las etapas comunicacionales que tenga con la marca; así se podrán elegir los diferentes tipos de contenidos o formatos digitales que se van a producir y a publicar. También es vital tener claro cuáles son los recursos (humanos, técnicos y tecnológicos) que la empresa posee para elegir los formatos de las publicaciones y en qué medios han de ser publicados. A continuación, se enumeran algunos de los tipos de contenidos digitales que pueden ser usados en toda estrategia de #[i marketing] de contenidos. Lo ideal es centrarse en dos o tres, lo que hará mucho más eficiente la labor:
+        p Un CMS es un sistema de gestión de contenidos, es decir, un #[i software] informático que admite establecer un ambiente de trabajo para crear y administrar contenidos, especialmente en páginas <i>web, landing pages, blog</i> y redes sociales. En la gestión hay roles, tales como administrador, editor, participantes y fanáticos. Es vital tener claro quién es el público objetivo y descubrir qué información demanda en todas las etapas comunicacionales que tenga con la marca; así se podrán elegir los diferentes tipos de contenidos o formatos digitales que se van a producir y a publicar. También es vital tener claro cuáles son los recursos (humanos, técnicos y tecnológicos) que la empresa posee para elegir los formatos de las publicaciones y en qué medios han de ser publicados. A continuación, se enumeran algunos de los tipos de contenidos digitales que pueden ser usados en toda estrategia de #[i marketing] de contenidos. Lo ideal es centrarse en dos o tres, lo que hará mucho más eficiente la labor:
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/tema1/g6.png', alt='Texto que describa la imagen').banner-principal-decorativo-3
@@ -304,7 +304,7 @@
                   img(src='@/assets/curso/temas/tema1/m3.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 Infografías
-                p Su objetivo es la transmisión de información de manera didáctica y visual, captando la atención de los clientes a través de un diseño con poco texto y mucho poder gráfico (ilustraciones, gráficos, fotos, diseño, etc.). Es un tipo de contenido muy usual en comunidades virtuales y foros, sirviendo para la obtención de #[i leads], mejorar el posicionamiento web y fortalecer la marca. Representan una de las maneras más sencillas y directas de compartir contenido dando valor a los clientes, ya que su finalidad es conseguir que los espectadores comprendan la información rápidamente.  
+                p Su objetivo es la transmisión de información de manera didáctica y visual, captando la atención de los clientes a través de un diseño con poco texto y mucho poder gráfico (ilustraciones, gráficos, fotos, diseño, etc.). Es un tipo de contenido muy usual en comunidades virtuales y foros, sirviendo para la obtención de #[i leads], mejorar el posicionamiento <i>web</i> y fortalecer la marca. Representan una de las maneras más sencillas y directas de compartir contenido dando valor a los clientes, ya que su finalidad es conseguir que los espectadores comprendan la información rápidamente.  
 
           .tarjeta.color-acento-botones.p-3(x="42.2%" y="79%" numero="")
             .row
@@ -313,7 +313,7 @@
                   img(src='@/assets/curso/temas/tema1/m4.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 Boletines
-                p También conocido como #[i newsletter], es una publicación que se puede compartir a unos suscriptores, bien a través de un correo electrónico o a través del sitio web, dando la oportunidad de descarga por parte del cliente. Su distribución se puede hacer con una periodicidad semanal, quincenal, mensual, bimestral o trimestral. Suelen estar conformados por diferentes artículos de valor para los suscriptores, con las noticias más relevantes de la empresa o del sector empresarial. Es posible que en un boletín se pueda integrar la oferta de un producto con el fin de convertir al suscriptor en #[i lead] y luego en cliente habitual.  
+                p También conocido como #[i newsletter], es una publicación que se puede compartir a unos suscriptores, bien a través de un correo electrónico o a través del sitio <i>web</i>, dando la oportunidad de descarga por parte del cliente. Su distribución se puede hacer con una periodicidad semanal, quincenal, mensual, bimestral o trimestral. Suelen estar conformados por diferentes artículos de valor para los suscriptores, con las noticias más relevantes de la empresa o del sector empresarial. Es posible que en un boletín se pueda integrar la oferta de un producto con el fin de convertir al suscriptor en #[i lead] y luego en cliente habitual.  
 
           .tarjeta.color-acento-botones.p-3(x="54.5%" y="79%" numero="")
             .row
@@ -322,7 +322,7 @@
                   img(src='@/assets/curso/temas/tema1/m5.png', alt='Texto que describa la imagen')
               .col-md-8
                 .h5.mb-2 #[i Podcast]
-                p Es un contenido digital que tiene formato de audio o video, el cual se puede escuchar o descargar de la web. Puede estar diseñado al estilo de un programa radial, ya que en cada capítulo se puede hablar de temas actuales y de relevancia para los clientes potenciales. Se puede publicar en el sitio web, en el #[i blog], en las redes sociales o en plataformas destinadas para ello, como por ejemplo SoundCloud, iVoox, YouTube, iTunes o Spotify, entre otras. El uso del #[i podcast] se enfoca más en la fidelización de los clientes potenciales y en la promoción de los contenidos. Es vital publicar contenidos que tengan temas atrayentes, como noticias, novedades del área, tendencias, etc. 
+                p Es un contenido digital que tiene formato de audio o video, el cual se puede escuchar o descargar de la <i>web</i>. Puede estar diseñado al estilo de un programa radial, ya que en cada capítulo se puede hablar de temas actuales y de relevancia para los clientes potenciales. Se puede publicar en el sitio <i>web</i>, en el <i>blog</i>, en las redes sociales o en plataformas destinadas para ello, como por ejemplo SoundCloud, iVoox, YouTube, iTunes o Spotify, entre otras. El uso del #[i podcast] se enfoca más en la fidelización de los clientes potenciales y en la promoción de los contenidos. Es vital publicar contenidos que tengan temas atrayentes, como noticias, novedades del área, tendencias, etc. 
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="60%" numero="")
             .row
@@ -355,7 +355,7 @@
                 .h5.mb-2 Videos
                 p Tipo de contenido digital muy interesante, atractivo y buscado por los clientes, ya que posee un espacio particular dentro de la gestión de contenidos. 
 
-                p Cada vez es más complejo captar la atención del cliente con publicaciones estáticas, esto ocurre porque la sociedad actual quiere encontrar contenidos simples y ágiles de comprender, y los videos son ideales para captar su atención. Un video bien elaborado y de calidad logra un mayor alcance e interacción a través de una búsqueda orgánica (SEO) en relación con otros formatos. Se puede publicar en distintas comunidades virtuales, en YouTube, en la landing page, en el blog y hasta se pueden compartir a través del correo electrónico. Estos formatos brindan la posibilidad de posicionarse en la web y lograr la fidelización del público objetivo. 
+                p Cada vez es más complejo captar la atención del cliente con publicaciones estáticas, esto ocurre porque la sociedad actual quiere encontrar contenidos simples y ágiles de comprender, y los videos son ideales para captar su atención. Un video bien elaborado y de calidad logra un mayor alcance e interacción a través de una búsqueda orgánica (SEO) en relación con otros formatos. Se puede publicar en distintas comunidades virtuales, en YouTube, en la landing page, en el blog y hasta se pueden compartir a través del correo electrónico. Estos formatos brindan la posibilidad de posicionarse en la <i>web</i> y lograr la fidelización del público objetivo. 
 
           .tarjeta.color-acento-botones.p-3(x="54.5%" y="21%" numero="")
             .row
@@ -363,7 +363,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema1/m8.png', alt='Texto que describa la imagen')
               .col-md-8
-                .h5.mb-2 #[i Webinars]
+                .h5.mb-2 <i>Webinars</i>
                 p Es una reunión, conferencia, taller, seminario, charla o curso en directo por internet que se puede grabar en formato video. Esencialmente, es un ‘cara a cara’ en vivo con el cliente para crear proximidad y confianza con él; por consiguiente, ayuda a lograr una conexión con los clientes para crear más #[i engagement] (compromiso de marca) y lograr más visibilidad para la marca, de tal manera que pueda aportar nuevos #[i leads] o clientes potenciales. Suelen tener un enfoque educativo y de formación, pero con el fin básico de captar nuevos #[i leads]; se requiere la elaboración de una oferta particular o #[i lead magnet] para aquellos que se mantienen hasta el final de la reunión. La oferta puede ser una descarga o el descuento en un producto o servicio. (Serrano et al., 2019, p.103). 
 
     .row.mt-5
