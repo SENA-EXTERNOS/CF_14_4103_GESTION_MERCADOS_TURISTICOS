@@ -196,7 +196,7 @@ export default {
     {
       referencia:
         'López Carreño, R. (2017). <em>Fuentes de Información: Guía Básica y Nueva Clasificación. </em>Barcelona: Editorial UOC.',
-      link: '',
+      link: 'https://revistas.um.es/analesdoc/article/view/323821/226921',
     },
     {
       referencia:
